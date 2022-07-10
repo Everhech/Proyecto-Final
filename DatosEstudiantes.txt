@@ -1,0 +1,7 @@
+﻿1061804958,Maria Paula,Hernandez,0000
+1061769611,Mike Andersson,Ramirez,1994
+106666666,Juanito,Alimaña,1234
+1061888999,Natalia,Rojas Luna,hermosa
+1234567611,Anastasia,kvitco,5555
+1061769666,Edwin,Restrepo,12345
+106178888,pedro,perez,5678

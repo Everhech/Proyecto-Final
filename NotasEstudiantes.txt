@@ -1,0 +1,7 @@
+1061769611,4.0,5.0,4.0,4.333333333333333,Laboratorio Programacion Orientada Objetos,
+1061804958,5.0,5.0,5.0,5.0,Laboratorio Programacion Orientada Objetos,
+1061769611,4.2,5.0,4.8,4.666666666666667,Electromagnetismo,
+1061769611,4.0,4.0,5.0,4.333333333333333,Calculo 3,
+1061769611,4.0,4.0,5.0,4.333333333333333,Laboratorio Electromagnetismo,
+1061769611,4.0,4.0,5.0,4.333333333333333,Algebra Lineal,
+1061804958,4.0,4.0,5.0,4.333333333333333,Algebra Lineal,
